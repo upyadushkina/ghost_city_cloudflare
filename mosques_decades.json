@@ -1,0 +1,374 @@
+[
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1580,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1680,
+    "what_happened": "Damaged",
+    "how": "in battles with Austrians"
+  },
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1760,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1780,
+    "what_happened": "Damaged",
+    "how": "during siege by Laudon"
+  },
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1830,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Batal Mosque",
+    "decade": 1860,
+    "what_happened": "Abandoned",
+    "how": null
+  },
+  {
+    "mosque_name": "Sinjirli Mosque",
+    "decade": 1540,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Sinjirli Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Sinjirli Mosque",
+    "decade": 1680,
+    "what_happened": "Damaged",
+    "how": "in battles with Austrians"
+  },
+  {
+    "mosque_name": "Sinjirli Mosque",
+    "decade": 1720,
+    "what_happened": "Changed function",
+    "how": "used as an artillery and gunpowder depot"
+  },
+  {
+    "mosque_name": "Sinjirli Mosque",
+    "decade": 1730,
+    "what_happened": "Changed function",
+    "how": "used by Franciscans and as military clothing storage"
+  },
+  {
+    "mosque_name": "Sinjirli Mosque",
+    "decade": 1740,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Shehitluk Mosque",
+    "decade": 1570,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Shehitluk Mosque",
+    "decade": 1720,
+    "what_happened": "Changed function",
+    "how": "during Austrian occupation"
+  },
+  {
+    "mosque_name": "Shehitluk Mosque",
+    "decade": 1740,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Shehitluk Mosque",
+    "decade": 1830,
+    "what_happened": "Abandoned",
+    "how": null
+  },
+  {
+    "mosque_name": "Shehitluk Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Hasan Pasha's Mosque",
+    "decade": 1740,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Hasan Pasha's Mosque",
+    "decade": 1800,
+    "what_happened": "Damaged",
+    "how": null
+  },
+  {
+    "mosque_name": "Hasan Pasha's Mosque",
+    "decade": 1820,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Hasan Pasha's Mosque",
+    "decade": 1860,
+    "what_happened": "Abandoned",
+    "how": null
+  },
+  {
+    "mosque_name": "Hasan Pasha's Mosque",
+    "decade": 1900,
+    "what_happened": "Changed function",
+    "how": "used as a warehouse by Serbs"
+  },
+  {
+    "mosque_name": "Hasan Pasha's Mosque",
+    "decade": 1940,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Kara Mosque",
+    "decade": 1550,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Kara Mosque",
+    "decade": 1710,
+    "what_happened": "Changed function",
+    "how": "used as a hospital facility during Austrian occupation"
+  },
+  {
+    "mosque_name": "Kara Mosque",
+    "decade": 1730,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Kara Mosque",
+    "decade": 1860,
+    "what_happened": "Changed function",
+    "how": "converted into a gasworks for the National Theatre"
+  },
+  {
+    "mosque_name": "Kara Mosque",
+    "decade": 1890,
+    "what_happened": "Abandoned",
+    "how": null
+  },
+  {
+    "mosque_name": "Kara Mosque",
+    "decade": 1900,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Turbe Mosque",
+    "decade": 1600,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Turbe Mosque",
+    "decade": 1710,
+    "what_happened": "Changed function",
+    "how": "as a hospital during Austrian occupation"
+  },
+  {
+    "mosque_name": "Turbe Mosque",
+    "decade": 1740,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Turbe Mosque",
+    "decade": 1860,
+    "what_happened": "Changed function",
+    "how": "converted into a theater props warehouse"
+  },
+  {
+    "mosque_name": "Turbe Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mustafa Mosque",
+    "decade": 1560,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mustafa Mosque",
+    "decade": 1680,
+    "what_happened": "Damaged",
+    "how": "in battles with Austrians"
+  },
+  {
+    "mosque_name": "Sultan Mustafa Mosque",
+    "decade": 1690,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mustafa Mosque",
+    "decade": 1710,
+    "what_happened": "Changed function",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mustafa Mosque",
+    "decade": 1730,
+    "what_happened": "Renovated",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mustafa Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Bayrakli Mosque",
+    "decade": 1660,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Bayrakli Mosque",
+    "decade": 1710,
+    "what_happened": "Changed function",
+    "how": "into a Catholic church during Austrian occupation"
+  },
+  {
+    "mosque_name": "Bayrakli Mosque",
+    "decade": 1730,
+    "what_happened": "Renovated",
+    "how": "after Ottomans retook Belgrade"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1600,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1680,
+    "what_happened": "Damaged",
+    "how": "during Austrian conquest battles"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1720,
+    "what_happened": "Changed function",
+    "how": "and used as artillery supply storage"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1726,
+    "what_happened": "Changed function",
+    "how": "into a Catholic church"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1740,
+    "what_happened": "Renovated",
+    "how": "after Ottoman return"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1780,
+    "what_happened": "Changed function",
+    "how": "and used by Franciscans"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1800,
+    "what_happened": "Damaged",
+    "how": "Top of minaret demolished during Serbian uprisings"
+  },
+  {
+    "mosque_name": "Turgut-begova Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mahmud Mosque",
+    "decade": 1730,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Sultan Mahmud Mosque",
+    "decade": 1860,
+    "what_happened": "Changed function",
+    "how": "into a hospital"
+  },
+  {
+    "mosque_name": "Sultan Mahmud Mosque",
+    "decade": 1870,
+    "what_happened": "Changed function",
+    "how": "into ammunition storage"
+  },
+  {
+    "mosque_name": "Sultan Mahmud Mosque",
+    "decade": 1880,
+    "what_happened": "Damaged",
+    "how": "after ammunition explosion"
+  },
+  {
+    "mosque_name": "Sultan Mahmud Mosque",
+    "decade": 1890,
+    "what_happened": "Demolished",
+    "how": null
+  },
+  {
+    "mosque_name": "Defterdarova Mosque",
+    "decade": 1580,
+    "what_happened": "Established",
+    "how": null
+  },
+  {
+    "mosque_name": "Defterdarova Mosque",
+    "decade": 1710,
+    "what_happened": "Changed function",
+    "how": "and used as hay storage during Austrian occupation"
+  },
+  {
+    "mosque_name": "Defterdarova Mosque",
+    "decade": 1730,
+    "what_happened": "Changed function",
+    "how": "into Spanish church"
+  },
+  {
+    "mosque_name": "Defterdarova Mosque",
+    "decade": 1740,
+    "what_happened": "Renovated",
+    "how": "after Ottoman return"
+  },
+  {
+    "mosque_name": "Defterdarova Mosque",
+    "decade": 1870,
+    "what_happened": "Demolished",
+    "how": null
+  }
+]
