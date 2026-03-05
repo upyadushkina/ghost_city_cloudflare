@@ -1,0 +1,112 @@
+<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+
+<style>
+/* Подключаем локальный шрифт Inter */
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter.woff') format('woff'),
+         url('Inter.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Базовая стилизация всей страницы */
+html, body, .main, .block-container, .stApp {
+    background-color: #191A1A !important;
+    color: #FFFFFF !important;
+    font-family: 'Inter', sans-serif !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+header, footer {
+    background-color: #191A1A !important;
+    color: #FFFFFF !important;
+    border-bottom: none !important;
+}
+
+/* Кнопка "double click" — цвет текста и фона */
+button[type="submit"] span {
+    color: #191A1A !important;
+}
+
+button[type="submit"] {
+    background-color: #FF649A !important;
+    border: none !important;
+    color: #191A1A !important;
+    font-family: 'Inter', sans-serif !important;
+    box-shadow: none !important;
+    transition: none !important;
+}
+
+button[type="submit"]:hover,
+button[type="submit"]:focus,
+button[type="submit"]:active {
+    background-color: #FF649A !important;
+    border: none !important;
+    color: #191A1A !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+/* Таймлайн (ползунок) */
+input[type=range]::-webkit-slider-thumb {
+    background: #FF649A !important;
+}
+input[type=range]::-moz-range-thumb {
+    background: #FF649A !important;
+}
+input[type=range]::-ms-thumb {
+    background: #FF649A !important;
+}
+
+/* Сброс фоновых блоков Streamlit */
+.css-18ni7ap, .css-1dp5vir, .css-1avcm0n {
+    background-color: #191A1A !important;
+}
+
+/* Карточки мечетей */
+.card {
+    background-color: #FFFFFF !important;
+    color: #191A1A !important;
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+}
+
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0 10px rgba(255, 100, 154, 0.3);
+}
+
+.card.selected {
+    border: 3px solid #FF649A;
+}
+
+/* Всплывающее описание при наведении */
+.card .tooltip {
+    visibility: hidden;
+    background-color: #FFFFFF;
+    color: #191A1A;
+    text-align: left;
+    border-radius: 8px;
+    padding: 10px;
+    position: absolute;
+    z-index: 1;
+    bottom: 110%;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    font-size: 12px;
+    width: 200px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.card:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+</style>
