@@ -209,8 +209,8 @@
   }
 
   Promise.all([
-    fetch('data/mosque_about.json').then((r) => r.json()),
-    fetch('data/mosques_decades.json').then((r) => r.json())
+    fetch('mosque_about.json').then((r) => r.json()),
+    fetch('mosques_decades.json').then((r) => r.json())
   ])
     .then(([about, decades]) => {
       mosqueAbout = about;
@@ -234,7 +234,7 @@
       console.error('Failed to load data', err);
       document.body.insertAdjacentHTML(
         'beforeend',
-        '<p style="padding:1rem;color:#ff6b6b;">Failed to load mosque data. Ensure data/mosque_about.json and data/mosques_decades.json exist.</p>'
+        '<p style="padding:1rem;color:#ff6b6b;">Failed to load mosque data. Ensure mosque_about.json and mosques_decades.json are in the same folder as index.html.</p>'
       );
     });
 })();
